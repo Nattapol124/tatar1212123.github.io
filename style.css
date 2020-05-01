@@ -1,0 +1,212 @@
+body{
+    background: url('./f.jpg') no-repeat  fixed  ;
+    -webkit-background-size:cover;
+    -o-background-size:cover;
+    -moz-background-size:cover;
+    background-size:cover;
+}
+.tophead{
+    font-family: SuisseIntl, sans-serif;
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+    padding: 1.8rem 0px;
+    margin: 0px 2.4rem;
+    
+}
+.kgcNXo {
+    text-transform: uppercase;
+    font-family: "Druk Wide Web", sans-serif;
+    font-weight: 700;
+    font-size: 1.5rem;
+    min-width: 18.6rem;
+    display: inline-block;
+    text-align: center;
+    letter-spacing: 0.1rem;
+    cursor: pointer;
+    border-width: initial;
+    border-style: none;
+    border-color: initial;
+    border-image: initial;
+    margin: 1.2rem auto;
+    padding: 1.6rem 2.4rem;
+    text-decoration: none;
+    outline: none;
+}
+.kfQGdn:hover{
+    background: rgb(255, 255, 255);
+}
+.kfQGdn{
+    color: rgb(0, 0, 0);
+    background: rgb(255, 255, 255);
+    transition: all 0.06s ease-in-out 0s;
+}
+.itpyGx {
+    background-color: transparent;
+    width: 100%;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+}
+@media (min-width: 40em){
+.ffkFxX {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+}
+.ffkFxX {
+    min-width: 40em;
+    box-sizing: border-box;
+    display: flex;
+    width: 100%;
+    -webkit-box-align: center;
+    align-items: center;
+    position: relative;
+    z-index: 24;
+     height: 5.6rem;
+    padding: 0px;
+     margin: 0px 2.4rem;
+}
+.bZCzZj {
+    margin-right: 1.2rem;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    cursor: pointer;
+}
+.icon{
+    width: 40px;
+}
+.eMPbgv {
+    text-transform: uppercase;
+    font-family: "Druk Wide Web", sans-serif;
+    font-weight: 500;
+    font-size: 1rem;
+    min-width: 18.6rem;
+    display: inline-block;
+    text-align: center;
+    letter-spacing: 0.1rem;
+    cursor: pointer;
+    border-width: initial;
+    border-style: none;
+    border-color: initial;
+    border-image: initial;
+    margin: 1.2rem auto;
+    padding: 1.6rem 2.4rem;
+    text-decoration: none;
+    outline: none;
+}
+.nametag{
+    font-family: monospace;
+    color: white;
+    font-size: 1.6rem;
+}
+.cjWZXo {
+    color: rgb(255, 255, 255);
+    font-family: monospace;
+    font-size: 5.2rem;
+    font-weight: 1000;
+    overflow-wrap: break-word;
+}
+h2 {
+    display: block;
+    font-size: 2.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+@media (min-width: 40em){
+    .eiAYhC {
+        flex-direction: row;
+        position: initial;
+        -webkit-box-pack: end;
+        justify-content: flex-end;
+        visibility: visible;
+        padding-bottom: 0px;
+        background: transparent;
+    }
+}
+.eiAYhC {
+    position: absolute;
+    top: 5.6rem;
+    left: 0px;
+    display: flex;
+    flex-direction: column;
+    -webkit-box-pack: end;
+    justify-content: flex-end;
+    width: 100%;
+    visibility: hidden;
+    padding-bottom: 2.4rem;
+    background: rgb(0, 0, 0);
+}
+.bZTthB {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+}
+@media (min-width: 40em)
+{
+.kQuFmf {
+    transition: all 0.12s ease-in-out 0s;
+}
+}
+
+.kQuFmf {
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    font-family: SuisseIntl, sans-serif;
+    font-size: 1rem;
+    letter-spacing: 0.1rem;
+    text-transform: uppercase;
+    display: inline-flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    cursor: pointer;
+    border-radius: 3px;
+    text-decoration: none;
+    outline: none;
+    margin: 0.2rem 0.6rem;
+    padding: 0.4rem 0.8rem;
+    position: absolute;
+    left: 94%;
+    font-weight: bold;
+}
+a {
+    background-color: transparent white;
+}
+@media (min-width: 40em)
+{
+.cCECew {
+    transition: all 0.12s ease-in-out 0s;
+}
+}
+.cCECew {
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    font-family: SuisseIntl, sans-serif;
+    font-size: 1rem;
+    letter-spacing: 0.1rem;
+    text-transform: uppercase;
+    display: inline-flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    cursor: pointer;
+    border-radius: 3px;
+    text-decoration: none;
+    outline: none;
+    margin: 0.2rem 0.6rem;
+    padding: 0.4rem 0.8rem;
+    position: absolute;
+    left: 97%;
+    font-weight: bolder;
+}
+.bZTthB {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+}
